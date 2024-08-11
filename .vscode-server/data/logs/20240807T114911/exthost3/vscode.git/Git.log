@@ -1,0 +1,47 @@
+2024-08-07 12:02:08.770 [info] [main] Log level: Info
+2024-08-07 12:02:08.770 [info] [main] Validating found git in: "git"
+2024-08-07 12:02:08.770 [info] [main] Using git "2.43.0" from "git"
+2024-08-07 12:02:08.770 [info] [Model][doInitialScan] Initial repository scan started
+2024-08-07 12:02:08.770 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-07 12:02:08.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:08.770 [info] > git rev-parse --show-toplevel [26ms]
+2024-08-07 12:02:08.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:08.770 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:08.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:08.774 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:08.774 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:08.778 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:08.778 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:08.781 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:08.781 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:08.784 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:08.784 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:08.787 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-08-07 12:02:09.885 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:09.885 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:16.214 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:16.214 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:16.218 [info] > git rev-parse --show-toplevel [0ms]
+2024-08-07 12:02:16.218 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-07 12:02:18.899 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-07 12:02:18.899 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-08-11 16:44:03.481 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-11 16:44:03.487 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-08-11 16:44:03.503 [info] [Model][openRepository] Opened repository: /home/zair
+2024-08-11 16:44:03.512 [info] [Git][getRemotes] No remotes found in the git config file
+2024-08-11 16:44:03.513 [info] > git config --get commit.template [5ms]
+2024-08-11 16:44:03.513 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-08-11 16:44:03.515 [warning] [Git][getBranch] No such branch: master
+2024-08-11 16:44:03.836 [info] > git show --textconv :web.html [5ms]
+2024-08-11 16:44:03.838 [info] > git ls-files --stage -- /home/zair/web.html [2ms]
+2024-08-11 16:44:03.973 [info] > git status -z -uall [456ms]
+2024-08-11 16:44:04.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [70ms]
+2024-08-11 16:44:04.063 [warning] [Git][getBranch] No such branch: master
+2024-08-11 16:44:04.064 [info] > git config --get commit.template [2ms]
+2024-08-11 16:44:04.067 [info] [Git][getRemotes] No remotes found in the git config file
+2024-08-11 16:44:04.067 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-08-11 16:44:04.068 [warning] [Git][getBranch] No such branch: master
+2024-08-11 16:44:04.089 [info] > git check-ignore -v -z --stdin [13ms]
+2024-08-11 16:44:04.493 [info] > git status -z -uall [423ms]
+2024-08-11 16:44:04.574 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [48ms]
+2024-08-11 16:44:04.575 [warning] [Git][getBranch] No such branch: master

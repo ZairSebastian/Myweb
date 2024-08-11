@@ -1,0 +1,61 @@
+2024-08-07 11:49:11.200 [info] 
+
+
+
+
+2024-08-07 11:49:11.200 [info] Extension host agent started.
+2024-08-07 11:49:11.210 [info] Started initializing default profile extensions in extensions installation folder. file:///home/zair/.vscode-server/extensions
+2024-08-07 11:49:11.219 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/zair/.vscode-server/extensions
+2024-08-07 11:49:11.476 [info] [127.0.0.1][af07977d][ManagementConnection] New connection established.
+2024-08-07 11:49:11.665 [info] [127.0.0.1][260f2616][ExtensionHostConnection] New connection established.
+2024-08-07 11:49:11.673 [info] [127.0.0.1][260f2616][ExtensionHostConnection] <848> Launched Extension Host Process.
+2024-08-07 12:01:27.191 [info] Getting Manifest... ritwickdey.liveserver
+2024-08-07 12:01:27.331 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/zair/.vscode-server/extensions/extensions.json","external":"file:///home/zair/.vscode-server/extensions/extensions.json","path":"/home/zair/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.92.0","date":"2024-07-31T23:26:45.634Z"}}
+2024-08-07 12:01:29.851 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 1241ms.
+2024-08-07 12:01:32.610 [info] Extracted extension to file:///home/zair/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-08-07 12:01:32.628 [info] Renamed to /home/zair/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-08-07 12:01:32.638 [info] Extension installed successfully: ritwickdey.liveserver file:///home/zair/.vscode-server/extensions/extensions.json
+2024-08-07 12:01:48.036 [info] [127.0.0.1][af07977d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-07 12:01:48.074 [info] [127.0.0.1][260f2616][ExtensionHostConnection] <848> Extension Host Process exited with code: 0, signal: null.
+2024-08-07 12:01:50.376 [info] [127.0.0.1][d8025a29][ManagementConnection] New connection established.
+2024-08-07 12:01:50.566 [info] [127.0.0.1][2cb7ba7a][ExtensionHostConnection] New connection established.
+2024-08-07 12:01:50.571 [info] [127.0.0.1][2cb7ba7a][ExtensionHostConnection] <3208> Launched Extension Host Process.
+2024-08-07 12:02:06.794 [info] [127.0.0.1][00ffc0d1][ManagementConnection] New connection established.
+2024-08-07 12:02:07.260 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] New connection established.
+2024-08-07 12:02:07.263 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] <3347> Launched Extension Host Process.
+2024-08-07 12:02:07.499 [info] [127.0.0.1][d8025a29][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-07 12:02:07.550 [info] [127.0.0.1][2cb7ba7a][ExtensionHostConnection] <3208> Extension Host Process exited with code: 0, signal: null.
+2024-08-07 12:03:38.401 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] <3347> [0mGET /favicon.ico [33m404[0m 1.847 ms - 150[0m
+
+2024-08-07 12:34:42.611 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-07 12:34:42.787 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-07 15:10:58.389 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-07 15:10:58.764 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-07 20:09:12.351 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-07 20:09:12.668 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-07 20:09:19.256 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-07 20:09:20.098 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-08 01:18:11.099 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-08 01:18:11.227 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-08 05:36:42.342 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-08 05:36:42.791 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-08 19:03:18.676 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-08 19:03:18.871 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-10 08:58:29.650 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-10 08:58:29.769 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-10 15:41:13.915 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-10 15:41:14.051 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-10 15:43:23.223 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-10 15:45:50.966 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-10 16:46:21.631 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-10 16:46:21.779 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-10 20:21:31.145 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-10 20:21:31.526 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-11 04:35:34.043 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-11 04:35:34.194 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-11 12:04:05.997 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-11 12:04:06.625 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-11 14:33:29.006 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-11 14:33:29.127 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.
+2024-08-11 16:22:39.162 [info] [127.0.0.1][00ffc0d1][ManagementConnection] The client has reconnected.
+2024-08-11 16:22:39.283 [info] [127.0.0.1][b6c77871][ExtensionHostConnection] The client has reconnected.

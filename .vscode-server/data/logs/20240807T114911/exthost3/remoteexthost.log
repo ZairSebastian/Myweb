@@ -1,0 +1,30 @@
+2024-08-07 12:02:07.932 [info] Extension host with pid 3347 started
+2024-08-07 12:02:07.944 [info] Lock '/home/zair/.vscode-server/data/User/workspaceStorage/c84ed79a6cea1c93250649dda160b2ad/vscode.lock': Lock acquired.
+2024-08-07 12:02:08.040 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-07 12:02:08.041 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-08-07 12:02:08.541 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-07 12:02:08.569 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-07 12:02:08.569 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-07 12:02:08.703 [info] Eager extensions activated
+2024-08-07 12:02:08.704 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-07 12:02:08.704 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-07 12:02:08.704 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-08-07 12:03:30.232 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-08-11 16:44:04.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6262
+2024-08-11 16:44:04.564 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6262
+2024-08-11 16:44:05.076 [error] Error: No such branch: master.
+	at N.getBranch (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:936645)
+	at async T.retryRun (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1032124)
+	at async T.run (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1031728)
+	at async T.getBranch (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1020077)
+	at async T.getBranchBase (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1020363)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:948043)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:941421)
+2024-08-11 16:44:05.581 [error] Error: No such branch: master.
+	at N.getBranch (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:936645)
+	at async T.retryRun (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1032124)
+	at async T.run (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1031728)
+	at async T.getBranch (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1020077)
+	at async T.getBranchBase (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:1020363)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:948043)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/home/zair/.vscode-server/bin/b1c0a14de1414fcdaa400695b4db1c0799bc3124/extensions/git/dist/main.js:2:941421)
